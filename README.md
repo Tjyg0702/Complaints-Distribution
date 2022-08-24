@@ -1,4 +1,4 @@
-# HW1
+# Complaints in Manhattan
 
 ii: From the three images, I can tell that the maps are very similar, which means most of the complaints are fairly accurate; however, there were lots of fireworks on Staten Island but the complaints were relatively low. Maybe the people on Staten Island have a higher tolerance for fireworks.
 
